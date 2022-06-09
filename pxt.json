@@ -1,0 +1,30 @@
+{
+    "name": "Classic Arcade Game Recreation-Pac Man",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.2.9",
+        "tag": "v1.2.9",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/2b200900459096720c107eba4cbfa0388ee2c1cd",
+        "target": "1.8.26",
+        "pxt": "6.2.22",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj"
+}
